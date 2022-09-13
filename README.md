@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# My Spendings App
+# Greetings App
 
 > This is a React API consumer (front-end) application, to be used in combination with the back-end [https://github.com/acolombo1/hello-rails-back-end](https://github.com/acolombo1/hello-rails-back-end) to be able to show a random greeting from a database.
 ## Built With
